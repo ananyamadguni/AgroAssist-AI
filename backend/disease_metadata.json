@@ -1,0 +1,51 @@
+{
+  "Tomato___Early_blight": {
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "symptoms": "Concentric dark rings and yellowing margins on lower leaves.",
+    "prevention": "Ensure good spacing for aeration; water at ground level to keep foliage dry.",
+    "treatment": "Apply a copper-based biological fungicide or neem oil spray every 7 days."
+  },
+  "Tomato___Late_blight": {
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "symptoms": "Large, dark, water-soaked brown lesions on leaves and stems with white fungal mold underneath.",
+    "prevention": "Avoid overhead irrigation; eliminate volunteer potato and tomato plants.",
+    "treatment": "Prune and destroy infected leaves immediately; apply bio-fungicide protective sprays."
+  },
+  "Tomato___Bacterial_spot": {
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "symptoms": "Small, dark, greasy spots with yellow halos across leaves and stems.",
+    "prevention": "Use certified disease-free seeds and maintain crop rotation cycles.",
+    "treatment": "Apply fixed-copper bactericides mixed with mancozeb to reduce spread."
+  },
+  "Tomato___healthy": {
+    "crop": "Tomato",
+    "disease": "Healthy",
+    "symptoms": "Vibrant green foliage with no discoloration or lesions.",
+    "prevention": "Maintain regular watering and balanced nitrogen-phosphorus fertilization.",
+    "treatment": "No treatment required. The crop is healthy."
+  },
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "symptoms": "Target-like circular brown lesions on older leaves.",
+    "prevention": "Rotate crops with non-solanaceous plants every 3 years.",
+    "treatment": "Spray chlorothalonil or copper sulfate preventative mixtures."
+  },
+  "Potato___Late_blight": {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "symptoms": "Purplish-brown lesions surrounded by pale green borders.",
+    "prevention": "Plant certified resistant seed tubers; avoid damp, waterlogged fields.",
+    "treatment": "Prune blighted foliage and apply systemic fungicides promptly."
+  },
+  "Potato___healthy": {
+    "crop": "Potato",
+    "disease": "Healthy",
+    "symptoms": "Sturdy foliage with uniform green pigmentation.",
+    "prevention": "Keep soil well-drained and maintain proper tuber hilling.",
+    "treatment": "No treatment required."
+  }
+}
